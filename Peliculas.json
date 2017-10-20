@@ -1,0 +1,23 @@
+{
+	"peliculas": [{
+		"nombre": "Interstellar",
+		"director": "Christopher Nolan",
+		"duracion": 169,
+		"protagonista": "Copper",
+		"actor": "Matthew McConaughey"
+	},
+	{
+		"nombre": "La lista de Schindler",
+		"director": "Steven Spielberg",
+		"duracion": 195,
+		"protagonista": "Oskar Schindler",
+		"actor": "Liam Neeson"
+	},
+	{
+		"nombre": "El dia de la marmota",
+		"director": "Harold Ramis",
+		"duracion": 105,
+		"protagonista": "Phil Connors",
+		"actor": "Bill Murray"
+	}]
+}

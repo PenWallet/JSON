@@ -1,0 +1,85 @@
+{
+	"Factura": [{
+		"Emisor": [{
+			"Nombre": "Super-Compras del Pacífico",
+			"Empresa": "Empresa de Prueba S.A de C.V",
+			"R.F.C": "FCM050228GG1",
+			"Domicilio fiscal": [{
+				"Avenida": "Centro 60",
+				"Calle": "Los Arbolitos",
+				"Estado": "Badiraguato, Sinaloa",
+				"CP": 52950,
+				"Zona": "La Tuna, Centro"
+			}],
+			"Factura": "contacto@facturafacilmente.com",
+			"Régimen Fiscal del Emisor": "Régimen general de ley de las personas morales",
+			
+		}],
+		"Receptor": [{
+			"Nombre": "José Luis López Hurtado",
+			"RFC": "XAXX010101000",
+			"Calle": "Av. Rio Nilo 264",
+			"Distrito": "Cumbres",
+			"Estado": "Guadalajara, Jalisco",
+			"Numero random": "5664-8965"
+		}],
+		"Datos factura": [{
+			"Factura No.": "AFAD771",
+			"Lugar y Fecha de Expedición": "Badiraguato, Sinaloa. 31/10/2015 11:01:21 a.m.",
+			"Fecha y Hora de Emisión": "2015-10-31T11:01:21"
+		}],
+		"Datos legales": [{
+			"Numero de Serie del CSD del Emisor": 216846521385,
+			"Folio Fiscal/UUID": "23ASDFG64DH54651AD",
+			"Numero de Serie del CSD del SAT": 68846421534834,
+			"Fecha y Hora de Certificación": "2015-10-31T11:01:23"
+		}],
+		"Productos": [{
+			"Clave de producto": "LIB PROF 100H CUA 5",
+			"Cantidad/U. Medida": "1 Pza",
+			"Descripción del Productos": "LIBRETA PROFESIONAL ESCRIBE DE 100 HOJAS CUADRICULADA CUADRO CHICO",
+			"% IVA": "16%",
+			"Valor Unitario": "$8.00",
+			"Importe": "$8.00"
+		},
+		{
+			"Clave de producto": "USB8K",
+			"Cantidad/U. Medida": "1 Pza",
+			"Descripción del Productos": "MEMORIA USB 8 GB KINGSTON",
+			"% IVA": "16%",
+			"Valor Unitario": "$100.00",
+			"Importe": "$100.00"
+		},
+		{
+			"Clave de producto": "HUL-5",
+			"Cantidad/U. Medida": "1 Pza",
+			"Descripción del Productos": "HULE ESPUMA DE 5CM. DE 1.20X1.90",
+			"% IVA": "16%",
+			"Valor Unitario": "$250.00",
+			"Importe": "$250.00"
+		},
+		{
+			"Clave de producto": "102002504548",
+			"Cantidad/U. Medida": "5 No aplica",
+			"Descripción del Productos": "Rocephin - Ceftriaxona Inyectable 500mg",
+			"% IVA": "0%",
+			"Valor Unitario": "$180.00",
+			"Importe": "$900.00"
+		},
+		{
+			"Clave de producto": "012002069971",
+			"Cantidad/U. Medida": "1 No aplica",
+			"Descripción del Productos": "Paracetamol Pediátrico 250ml",
+			"% IVA": "0%",
+			"Valor Unitario": "$250.00",
+			"Importe": "$250.00"
+		},
+		{
+			"Clave de producto": "0990988843",
+			"Cantidad/U. Medida": "5 No aplica",
+			"Descripción del Productos": "Leche Doña Clara 1L",
+			"% IVA": "Exento",
+			"Valor Unitario": "$16.90",
+			"Importe": "$84.50"
+		}],
+		

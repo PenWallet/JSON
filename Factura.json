@@ -1,0 +1,65 @@
+{
+	"factura": [{
+		"Datos del contrato": [{
+			"Titular del contrato": "Rajoy Sánchez Iglesias",
+			"NIF": "66666666Q",
+			"Dirección de suministro": "c/ Falsa 123",
+			"Tipo de gas": "El que sale por detrás",
+			"CUPS": "ES0218030024126625HT",
+			"Numero de contador": 999124509,
+			"Referencia del contrato": 12100130431,
+			"Comercializadora": "Endesa Energía S.A.U",
+			"Peaje de acceso": "3.2P"
+		}],
+		"Detalle de la factura": [{
+			"Repercusion canon IRC distrib.": [{
+				"Desglose": "",
+				"Total": 10.1
+			}],
+			"Termino energia gas": [{
+				"Desglose": "-107 KWh x 0.043572 €/KWh",
+				"Total": -4.66
+			}],
+			"Termino fijo": [{
+				"Desglose": "62 días x 0.277808 €/dia",
+				"Total": 17.22
+			}],
+			"% dto. promocional": [{
+				"Desglose": "12.56 € x -9.00 %",
+				"Total": -1.13
+			}],
+			"Alq. de equipos de gas": [{
+				"Desglose": "",
+				"Total": 2.57
+			}],
+			"Gastos insp. periodica iri": [{
+				"Desglose": "",
+				"Total": 12.80
+			}],
+			"Gastos insp. fisica iri": [{
+				"Desglose": "",
+				"Total": 27.15
+			}],
+			"Interes regulariz. cons. real": [{
+				"Desglose": "",
+				"Total": -0.05
+			}],
+			"Impto.hc general (#)": [{
+				"Desglose": "-107 KWh x 0.00234 €/KWh",
+				"Total": -0.25
+			}],
+			"Importe total": [{
+				"Desglose": "",
+				"Total": 63.75
+			}],
+			"IVA": [{
+				"Desglose": "Normal 21% sobre 63.80",
+				"Total": 13.40
+			}],
+			"TOTAL IMPORTE FACTURA": [{
+				"Desglose": "",
+				"Total": 77.15
+			}]
+		}]
+	}]
+}

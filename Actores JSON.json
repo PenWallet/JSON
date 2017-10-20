@@ -1,0 +1,28 @@
+{  
+   "actores":[  
+      {  
+         "pelicula":{  
+            "@nombre":"Interstellar",
+            "nombre":"Matthew McConaughey",
+            "fecha_nac":"04/09/1969",
+            "nacionalidad":"Estadounidense"
+         }
+      },
+      {  
+         "pelicula":{  
+            "@nombre":"La lista de Schindler",
+            "nombre":"Liam Neeson",
+            "fecha_nac":"07/06/1952",
+            "nacionalidad":"Irlandes"
+         }
+      },
+      {  
+         "pelicula":{  
+            "@nombre":"El dia de la marmota",
+            "nombre":"Bill Murray",
+            "fecha_nac":"21/10/1950",
+            "nacionalidad":"Estadounidense"
+         }
+      }
+   ]
+}
