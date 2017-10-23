@@ -1,0 +1,30 @@
+"escapada": {
+	"encargado": [{
+		"nombre": "Lina"},{
+		"viaje": {
+			"@tarea": 1,
+			"#text": "Revisar la furgoneta"
+		}},
+		"barbacoa": [{
+			"@tarea": 1,
+			"#text": "Verduras"
+		},
+		{
+			"@tarea": 2,
+			"#text": "Salsa"
+		}],
+		"alojamiento": [{
+			"@tarea": 1,
+			"#text": "Gestionar reserva"
+		},
+		{
+			"@tarea": 1,
+			"#text": "Quedar con el propietario"
+		},
+		{
+			"@tarea": 1,
+			"#text": "Obtener la ubicación"
+		}]
+	},
+	]
+}
